@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2015\MCSD\Matrix_Iterration\Matrix_Iterration\bin\Debug\Matrix_Iterration.exe.config
+c:\users\dell\documents\visual studio 2015\MCSD\Matrix_Iterration\Matrix_Iterration\bin\Debug\Matrix_Iterration.exe
+c:\users\dell\documents\visual studio 2015\MCSD\Matrix_Iterration\Matrix_Iterration\bin\Debug\Matrix_Iterration.pdb
+c:\users\dell\documents\visual studio 2015\MCSD\Matrix_Iterration\Matrix_Iterration\obj\Debug\Matrix_Iterration.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\MCSD\Matrix_Iterration\Matrix_Iterration\obj\Debug\Matrix_Iterration.exe
+c:\users\dell\documents\visual studio 2015\MCSD\Matrix_Iterration\Matrix_Iterration\obj\Debug\Matrix_Iterration.pdb
